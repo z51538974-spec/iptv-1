@@ -121,5 +121,5 @@ http://85.132.53.162:1935/live/eltv/playlist.m3u8
 https://live.ishiacloud.com/haditv.co.uk/haditv3.m3u8
 #EXTINF:-1 tvg-name="ARBGUNES.az" group-title="kids",ARB Gunes
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
-#EXTINF:-1 tvg-name="AZADTV.az" group-title="AZERBAYCAN YAYINLAR", Gerenal Azad TV
+#EXTINF:-1 tvg-name="AZADTV.az" group-title="Gerenal",  Azad TV
 https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_adaptive.m3u8
